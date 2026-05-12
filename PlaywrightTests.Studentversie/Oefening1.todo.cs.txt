@@ -39,5 +39,7 @@ namespace PlaywrightTests
 			// TODO 4: Pas een Expect toe op een 'css' locator (Page.Locator("css=....")) om de weergegeven dialog te localiseren. Check of deze zichtbaar is ( Expect(locatore).ToBeVisibleAsync() ).
 		}
 
+
+
 	}
 }
